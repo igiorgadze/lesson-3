@@ -1,0 +1,167 @@
+/*Base classes*/
+.d-inline-block {
+    display: inline-block;
+}
+/*Header*/
+.nav-a {
+    font-size: 22px;
+    color: #3D58A6;
+}
+.active {
+    color: #EE4036;
+}
+.logo {
+    vertical-align: middle;
+    margin-left: 30px;
+}
+
+
+.navigation {
+    margin-left: 50px;
+    vertical-align: middle;
+}
+.nav-li {
+    margin-right: 22px;
+}
+.header-wraper {
+    padding-left: 30px;
+    margin-bottom: 76.9px;
+}
+.banner {
+    margin-left: 98px;
+    margin-right: 98px;
+    margin-bottom: 117.5px;
+    vertical-align: center;
+}
+.section-title {
+    margin-left: 98px;
+    margin-bottom: 29.8px;
+}
+.left-block {
+    margin-left: 98px;
+    margin-right: 29px;
+}
+.left-block h3 {
+    color: #3D58A6;
+}
+.right-block h3 {
+    color: #3D58A6;
+}
+/*Footer*/
+.fb {
+    margin-top: 68.3px;
+    margin-left: 98px;
+}
+/*News page*/
+.article-text {
+    color: blue;
+}
+.span1 {
+    color: red;
+}
+.span2 {
+    color: green;
+}
+.article-date {
+    background-color: #3D58A6;
+    width: 56px;
+    height: 56px;
+}
+.article-title {
+    /*border-width: 2px;
+    border-style: solid;
+    border-color:red;*/
+    border: 2px solid red;
+
+    /*margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin: 20px 50px 30px 20px*/
+
+    /*margin: 20px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 30px;*/
+
+    margin: 30px;
+
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+/*Contact Page*/
+.contact-section {
+    background-color: #E6E6E6;
+    padding-top: 49px;
+    padding-bottom: 55px;
+}
+.contact-title {
+    text-align: center;
+}
+.left-block-contact {
+    display: inline-block;
+    margin-right: 55px;
+    vertical-align: top;
+    /*padding-top: 49px;*/
+}
+.right-block-contact {
+    display: inline-block;
+    vertical-align: top;
+    /*padding-top: 49px;*/
+}
+.map-contact {
+    width: 874px;
+    height: 466px;
+}
+.test {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+
+}
+.section-title {
+    margin-bottom: 31px;
+}
+.left-block,
+.right-block {
+    width: 570px;
+    background-color: #F2F2F2;
+    display: inline-block;
+    padding: 13px;
+    /*margin-top: 31px;*/
+}
+.image-block {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+    margin-top: 13px;
+}
+.text-block {
+    display: inline-block;
+    width: 355px;
+    vertical-align: middle;
+}
+/*Footer*/
+.divider {
+    width: 2px;
+    height: 27px;
+    background-color: #363E97;
+    margin: 0 30px 0 36px;
+    display: inline-block;
+}
+
+/*Test - display-inline-block*/
+.test1 {
+    display: inline-block;
+}
+.test2 {
+    display:inline-block;
+}
+.test3 {
+    display: inline-block;
+}
+.test4 {
+    display: inline-block;
+}
